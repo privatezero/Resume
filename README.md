@@ -33,6 +33,14 @@ Seattle, WA -- 2014-2015
 ###Other Work Experience
 ---
 
+###Additional Skills
+---
+* BASH, MySQL, Git Version Control, DACS, EAD, XML
+* High proficiency in Japanese. Spoken level- fluent. Reading/Writing- 3rd year college level.
+* Experience with team management.
+* Strong Customer Service
+
+
 ###Publications
 ---
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. Version 1.0. Retrieved from: http://gamer.ischool.uw.edu/official_release/
