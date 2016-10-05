@@ -41,4 +41,4 @@ Seattle, WA -- 2014-2015
 ---
 
 ###Grants
-2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=k&q=Films+of+Joseph+F.+Rock) ($10,495). Fully Funded.
+2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
