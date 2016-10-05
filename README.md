@@ -13,6 +13,7 @@ __UNIVERSITY OF WASHINGTON, JACKSON SCHOOL OF INTERNATIONAL STUDIES,__ Seattle, 
 _BA in Japan Studies_
 
 ###Library/Archives Experience
+---
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT__ 
 
 New York, NY -- 2016-Present
@@ -30,11 +31,14 @@ UNIVERSITY OF WASHINGTON LIBRARIES SPECIAL COLLECTIONS, __ASSISTANT TO FILM ARCH
 Seattle, WA -- 2014-2015
 
 ###Other Work Experience
+---
 
 ###Publications
+---
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. Version 1.0. Retrieved from: http://gamer.ischool.uw.edu/official_release/
 
 ###Presentations
+---
 
 ###Grants
 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=k&q=Films+of+Joseph+F.+Rock) ($10,495). Fully Funded.
