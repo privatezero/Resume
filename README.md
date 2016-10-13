@@ -14,7 +14,7 @@ _BA in Japan Studies_
 
 ###Library/Archives Experience
 ---
-AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT__ 
+AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT AT CITY UNIVERSITY OF NEW YORK TELEVISION__ 
 
 New York, NY -- 2016-Present
 
@@ -22,23 +22,28 @@ UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TE
 
 Seattle, WA -- 2015-2016
 
-UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __GRADUATE REFERENCE SPECIALIST,__ 
+UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __GRADUATE REFERENCE SPECIALIST__ 
 
 Seattle, WA -- 2014-2015
 
-UNIVERSITY OF WASHINGTON LIBRARIES SPECIAL COLLECTIONS, __ASSISTANT TO FILM ARCHIVES SPECIALIST,__ 
+UNIVERSITY OF WASHINGTON LIBRARIES SPECIAL COLLECTIONS, __ASSISTANT TO FILM ARCHIVES SPECIALIST__ 
 
 Seattle, WA -- 2014-2015
 
 ###Other Work Experience
 ---
+ART JAPAN CO. LTD., __Construction Management Contractor__
+
+Kagoshima, Japan -- 2011-2013
+
+SATSUMA-SENDAI BOARD OF EDUCATION, __English Teacher__
+
+Satsuma-Sendai, Japan -- 2007-2009
 
 ###Additional Skills
 ---
-* BASH, MySQL, Git Version Control, DACS, EAD, XML
+* BASH, MySQL, XML, Git Version Control, DACS, PREMIS, EAD
 * High proficiency in Japanese. Spoken level- fluent. Reading/Writing- 3rd year college level.
-* Experience with team management.
-* Strong Customer Service
 
 
 ###Publications
@@ -47,6 +52,19 @@ Seattle, WA -- 2014-2015
 
 ###Presentations
 ---
+####International
+* Building a Digital Preservation Community in Public Broadcasting. IASA Annual Conference 2016. Washington, DC. 09/26/2016. (http://2016.iasa-web.org/building-digital-preservation-community-public-broadcasting)
+* Expanding Access Through Music: The Adrian Cowell Films and Research Collection. Poster. IASA Annual Conference 2016. Washington, DC. 09/27/2016. (http://2016.iasa-web.org/expanding-access-through-music-adrian-cowell-films-and-research-collection)
+
+####National
+* Keeping it Reel: Providing Access to Physical Collections-Presentation. AMIA Annual Conference 2015. Portland, OR. 11/11/2015.(http://www.amiaconference.net/program-stream-access-outreach-and-use-of-moving-image-archives/)
+* Expanding Access Through Music: The Adrian Cowell Films and Research Collection. Poster. AMIA Annual Conference 2015. Portland, OR. 11/09/2015.(http://www.amiaconference.net/poster-sessions/)
+* Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection- Presentation. Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015. (http://guides.lib.uw.edu/c.php?g=342304&p=2300683)
+
+
+####Regional/Local
+* Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection-Presentation. Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015
+* Media Archives and Japan Studies Time Based Media- Presentation. UW Libraries Japanologists’ Colloquium. Seattle, WA. 2/2/2015
 
 ###Grants
 ---
@@ -54,6 +72,10 @@ Seattle, WA -- 2014-2015
 
 ###Service
 ---
+* Open Source Projects: Maintains media tools at [pugetsoundandvision](https://github.com/pugetsoundandvision), Contributes to [Vrecord](https://github.com/amiaopensource/vrecord)
+* Access Services Committee, University of Washington Libraries 2015-2016
+* University of Washington Information School Student Group ‘iWorld’ webmaster 2014-2015
+
 ###Professional Affiliations
 ---
 * International Association of Sound and Audiovisual Archives
