@@ -42,7 +42,7 @@ Satsuma-Sendai, Japan -- 2007-2009
 
 ###Additional Skills
 ---
-* BASH, MySQL, XML, FFMPEG, Git Version Control, DACS, PREMIS, EAD
+* BASH, MySQL, XML, FFMpeg, Git Version Control, DACS, PREMIS, EAD
 * High proficiency in Japanese. Spoken level- fluent. Reading/Writing- 3rd year college level.
 
 
