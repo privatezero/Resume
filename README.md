@@ -57,6 +57,8 @@ Satsuma-Sendai, Japan -- 2007-2009
 * Expanding Access Through Music: The Adrian Cowell Films and Research Collection. Poster. IASA Annual Conference 2016. Washington, DC. 09/27/2016. (http://2016.iasa-web.org/expanding-access-through-music-adrian-cowell-films-and-research-collection)
 
 ####National
+* Planning for Preservation in Public Media: An AAPB NDSR Update. AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
+(http://www.amiaconference.net/preliminary-program-2/#saturday)
 * Keeping it Reel: Providing Access to Physical Collections-Presentation. AMIA Annual Conference 2015. Portland, OR. 11/11/2015.(http://www.amiaconference.net/program-stream-access-outreach-and-use-of-moving-image-archives/)
 * Expanding Access Through Music: The Adrian Cowell Films and Research Collection. Poster. AMIA Annual Conference 2015. Portland, OR. 11/09/2015.(http://www.amiaconference.net/poster-sessions/)
 * Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection- Presentation. Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015. (http://guides.lib.uw.edu/c.php?g=342304&p=2300683)
