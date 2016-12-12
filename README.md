@@ -16,19 +16,19 @@ _BA in Japan Studies_
 ---
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT AT CITY UNIVERSITY OF NEW YORK TELEVISION__ 
 
-New York, NY -- 2016-Present
+New York, NY -- 07/2016-Present
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TECHNICIAN__ 
 
-Seattle, WA -- 2015-2016
+Seattle, WA -- 09/2015-07/2016
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __GRADUATE REFERENCE SPECIALIST__ 
 
-Seattle, WA -- 2014-2015
+Seattle, WA -- 08/2014-08/2015
 
 UNIVERSITY OF WASHINGTON LIBRARIES SPECIAL COLLECTIONS, __ASSISTANT TO FILM ARCHIVES SPECIALIST__ 
 
-Seattle, WA -- 2014-2015
+Seattle, WA -- 12/2013-08/2015
 
 ###Other Work Experience
 ---
@@ -50,7 +50,7 @@ Satsuma-Sendai, Japan -- 2007-2009
 ---
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. Version 1.0. Retrieved from: http://gamer.ischool.uw.edu/official_release/
 
-###Presentations
+###Selected Presentations
 ---
 ####International
 * Building a Digital Preservation Community in Public Broadcasting. IASA Annual Conference 2016. Washington, DC. 09/26/2016. (http://2016.iasa-web.org/building-digital-preservation-community-public-broadcasting)
@@ -70,7 +70,7 @@ Satsuma-Sendai, Japan -- 2007-2009
 
 ###Grants
 ---
-2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
+Grant Writer and Project Manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
 
 ###Service
 ---
