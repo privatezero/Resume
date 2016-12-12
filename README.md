@@ -48,6 +48,7 @@ Satsuma-Sendai, Japan -- 2007-2009
 
 ###Publications
 ---
+* Widzinski L., Mandel, D., Weaver, A. Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35.
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. Version 1.0. Retrieved from: http://gamer.ischool.uw.edu/official_release/
 
 ###Selected Presentations
