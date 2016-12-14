@@ -17,12 +17,26 @@ _BA in Japan Studies_
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT AT CITY UNIVERSITY OF NEW YORK TELEVISION__ 
 
 New York, NY -- 07/2016-Present
+* Developing a SQL database for the automated capture of PREMIS and fixity metadata.
+* Integrating perceptual hashing of items into existing workflows to aid in processing.
+* Revising and contributing to existing micro-service scripts for A/V preservation.
+* Writing an open-source solution for robust signal monitoring of audio digitization.
 
-UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TECHNICIAN__ 
+
+UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TECHNICIAN__
+* Supervised student employees.
+* Designed and implemented workflows for large VHS and open-reel audio reformatting projects
+* Delivered instruction to students, faculty and library staff, with a particular focus on media preservation and
+￼￼￼digitization methods and standards.
+* Worked with patrons providing reference and assistance with library and media resources.
+* Wrote scripts and applications to support digital media preservation reformatting.
+* Designed and conducted surveys of collection materials to identify preservation issues and candidates for reformatting.
+* Involved in all stages of media archiving, including preservation work on original items, description, reformatting,
+management of digital files and creation of access points. 
 
 Seattle, WA -- 09/2015-07/2016
 
-UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __GRADUATE REFERENCE SPECIALIST__ 
+UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __GRADUATE REFERENCE SPECIALIST__
 
 Seattle, WA -- 08/2014-08/2015
 
