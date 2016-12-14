@@ -1,4 +1,5 @@
 <p align="center"><strong>Andrew Weaver, MLIS</strong></p>
+<p align="center">365 5th Avenue, Suite 1400, New York, NY 10016</p>
 <p align="center">weevz@uw.edu | (206) 574-8940</p>
 
 ###Education
@@ -78,11 +79,11 @@ Satsuma-Sendai, Japan -- 2007-2009
 
 ###Grants
 ---
-Grant Writer and Project Manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
+Principle grant writer and project manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the Joseph F. Rock Ethnographic and Exploration Film Collection (http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
 
 ###Service
 ---
-* Open Source Projects: Maintains media tools at [pugetsoundandvision](https://github.com/pugetsoundandvision), Contributes to [Vrecord](https://github.com/amiaopensource/vrecord) and [AMIA Open Source](https://github.com/amiaopensource)
+* Open Source Projects: Maintains media tools at 'pugetsoundandvision' (https://github.com/pugetsoundandvision), Contributes to 'Vrecord'(https://github.com/amiaopensource/vrecord) and 'AMIA Open Source' (https://github.com/amiaopensource)
 * Access Services Committee, University of Washington Libraries 2015-2016
 * University of Washington Information School Student Group ‘iWorld’ webmaster 2014-2015
 
