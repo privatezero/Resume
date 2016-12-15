@@ -27,6 +27,8 @@ New York, NY -- 07/2016-Present
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TECHNICIAN__
 
+Seattle, WA -- 09/2015-07/2016
+
 * Designed and implemented workflows for large VHS and open-reel audio reformatting projects
 * Delivered instruction to students, faculty and library staff, with a particular focus on media preservation and digitization methods and standards. 
 * Worked with patrons providing reference and assistance with library and media resources.
@@ -36,23 +38,22 @@ UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TE
 * Involved in all stages of media archiving, including preservation work on original items, description, reformatting,
 management of digital files and creation of access points. 
 
-Seattle, WA -- 09/2015-07/2016
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __GRADUATE REFERENCE SPECIALIST__
+
+Seattle, WA -- 08/2014-08/2015
 
 * Conducted preservation and reformatting of Library Media Collections.
 * Developed and maintained IT infrastructure for Digital Media Maker Space.
 * Provided A/V oriented reference and circulation services.
 
-Seattle, WA -- 08/2014-08/2015
 
 UNIVERSITY OF WASHINGTON LIBRARIES SPECIAL COLLECTIONS, __ASSISTANT TO FILM ARCHIVES SPECIALIST__
 
+Seattle, WA -- 12/2013-08/2015
+
 * Worked on all stages of moving image archival collections including aquisition, description, physical preservation and digitization.
 * Developed guidelines for the creation of moving image collection EAD finding aids.
-
-
-Seattle, WA -- 12/2013-08/2015
 
 ###Other Work Experience
 ---
