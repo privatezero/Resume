@@ -1,0 +1,2 @@
+#!/bin/bash
+pandoc -o ~/Desktop/Resume.docx -f markdown -t docx "${1}"
