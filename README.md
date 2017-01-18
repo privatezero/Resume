@@ -25,7 +25,7 @@ New York, NY -- 07/2016-Present
 * Writing an open-source solution for robust signal monitoring of audio digitization
 
 
-UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __ARCHIVAL AND DIGITAL MEDIA TECHNICIAN__
+UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __DIGITAL AND ARCHIVAL MEDIA TECHNICIAN__
 
 Seattle, WA -- 09/2015-07/2016
 
@@ -56,11 +56,11 @@ Seattle, WA -- 12/2013-08/2015
 
 ###Other Work Experience
 ---
-ART JAPAN CO. LTD., __Construction Management Contractor__
+ART JAPAN CO. LTD., __CONSTRUCTION MANAGEMENT__
 
 Kagoshima, Japan -- 2011-2013
 
-SATSUMA-SENDAI BOARD OF EDUCATION, __English Teacher__
+SATSUMA-SENDAI BOARD OF EDUCATION, __ENGLISH TEACHER__
 
 Satsuma-Sendai, Japan -- 2007-2009
 
