@@ -63,7 +63,7 @@ Satsuma-Sendai, Japan -- 2007-2009
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015
-* "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists’ Colloquium." Seattle, WA. 2/2/2015
+* "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists' Colloquium." Seattle, WA. 2/2/2015
 
 ###Grants
 ---
@@ -73,7 +73,7 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 ---
 * Open Source Projects: Maintains media tools at [pugetsoundandvision](https://github.com/pugetsoundandvision), Contributes to [Vrecord](https://github.com/amiaopensource/vrecord) and [AMIA Open Source](https://github.com/amiaopensource)
 * Access Services Committee, University of Washington Libraries 2015-2016
-* University of Washington Information School Student Group ‘iWorld’ webmaster 2014-2015
+* University of Washington Information School Student Group 'iWorld' webmaster 2014-2015
 
 ###Professional Affiliations
 ---
