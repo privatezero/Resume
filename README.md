@@ -54,16 +54,16 @@ Satsuma-Sendai, Japan -- 2007-2009
 
 ###Selected Presentations and Lectures
 ---
-* Demystifying FFmpeg and FFplay. AAPB NDSR Webinar Series. 1/26/2017
-* Planning for Preservation in Public Media: An AAPB NDSR Update. AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
-* Expanding Access Through Music: The Adrian Cowell Films and Research Collection. _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
-* Building a Digital Preservation Community in Public Broadcasting. IASA Annual Conference 2016. Washington, DC. 09/26/2016.
-* Tools and Resources for Multimodal Teaching and Learning. University of Washington English CIC Program. 11/13/2015.
-* Keeping it Reel: Providing Access to Physical Collections-Presentation. AMIA Annual Conference 2015. Portland, OR. 11/21/2015.
-* Expanding Access Through Music: The Adrian Cowell Films and Research Collection. _Poster_. AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
-* Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection. Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
-* Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection. Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015
-* Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists’ Colloquium. Seattle, WA. 2/2/2015
+* "Demystifying FFmpeg and FFplay." AAPB NDSR Webinar Series. 01/26/2017
+* "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
+* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
+* "Building a Digital Preservation Community in Public Broadcasting." IASA Annual Conference 2016. Washington, DC. 09/26/2016.
+* "Tools and Resources for Multimodal Teaching and Learning." University of Washington English CIC Program. 11/13/2015.
+* "Keeping it Reel: Providing Access to Physical Collections-Presentation." AMIA Annual Conference 2015. Portland, OR. 11/21/2015.
+* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
+* "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
+* "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015
+* "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists’ Colloquium." Seattle, WA. 2/2/2015
 
 ###Grants
 ---
