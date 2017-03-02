@@ -71,7 +71,11 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 
 ###Service
 ---
-* Open Source Projects: Maintains media tools at [pugetsoundandvision](https://github.com/pugetsoundandvision), Contributes to [Vrecord](https://github.com/amiaopensource/vrecord) and [AMIA Open Source](https://github.com/amiaopensource)
+* Open Source Projects: 
+
+  - Creator/Maintainer: [audiorecorder](https://github.com/amiaopensource/audiorecorder), media tools at [pugetsoundandvision](https://github.com/pugetsoundandvision) 
+
+  - Contributor: [Vrecord](https://github.com/amiaopensource/vrecord) and other [AMIA Open Source](https://github.com/amiaopensource) projects
 * Access Services Committee, University of Washington Libraries 2015-2016
 * University of Washington Information School Student Group 'iWorld' webmaster 2014-2015
 
