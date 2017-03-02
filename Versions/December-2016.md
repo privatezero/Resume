@@ -93,7 +93,6 @@ Satsuma-Sendai, Japan -- 2007-2009
 ###Service
 ---
 * Open Source Projects: Maintains media tools at 'pugetsoundandvision' (https://github.com/pugetsoundandvision), Contributes to 'Vrecord'(https://github.com/amiaopensource/vrecord) and 'AMIA Open Source' (https://github.com/amiaopensource)
-* Member of volunteer community archiving organiation XFR Collective 2016-Present
 * Access Services Committee, University of Washington Libraries 2015-2016
 * University of Washington Information School Student Group ‘iWorld’ webmaster 2014-2015
 
