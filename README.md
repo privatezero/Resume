@@ -1,7 +1,7 @@
 <p align="center"><strong>Andrew Weaver, MLIS</strong></p>
 <p align="center">weevz@uw.edu | (206) 574-8940</p>
 
-###Education
+###Education###
 ---
 __UNIVERSITY OF WASHINGTON, INFORMATION SCHOOL,__ Seattle, WA -- 2015
 
@@ -12,7 +12,7 @@ __UNIVERSITY OF WASHINGTON, JACKSON SCHOOL OF INTERNATIONAL STUDIES,__ Seattle, 
 
 _BA in Japan Studies_
 
-###Library/Archives Experience
+###Library/Archives Experience###
 ---
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT AT CITY UNIVERSITY OF NEW YORK TELEVISION__ 
 
