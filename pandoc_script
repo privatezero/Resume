@@ -1,2 +1,6 @@
 #!/bin/bash
-pandoc -o ~/Desktop/Resume.docx -f markdown -t docx "${1}"
+OUTPUTNAME=$(basename "${1}" | cut -d'.' -f1)
+if [ "${OUTPUTNAME}" = "README" ] ; then
+    OUTPUTNAME=A_Weaver
+fi
+pandoc -o ~/Desktop/"${OUTPUTNAME}"_Resume.docx -f markdown -t docx "${1}"
