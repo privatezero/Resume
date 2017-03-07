@@ -83,4 +83,5 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 ---
 * International Association of Sound and Audiovisual Archives
 * Association of Moving Image Archivists
+* Northwest Archivists
 * Seattle Area Archivists
