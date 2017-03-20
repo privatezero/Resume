@@ -43,13 +43,13 @@ Satsuma-Sendai, Japan -- 2007-2009
 ### Additional Skills
 ---
 * Bash, MySQL, XML, FFmpeg, Git Version Control, DACS, PREMIS, EAD
-* High proficiency in Japanese. Spoken level- fluent. Reading/Writing- 3rd year college level.
+* High proficiency in Japanese. Spoken level: fluent. Reading/Writing: 3rd year college level.
 
 
 ### Publications
 ---
 * Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017) Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal,v47_, pp 41-47.
-* Widzinski L., Mandel, D., Weaver, A. Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35.
+* Widzinski L., Mandel, D., Weaver, A., Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35.
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. http://gamer.ischool.uw.edu/official_release/
 
 ### Selected Presentations and Lectures
