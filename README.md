@@ -1,7 +1,7 @@
 <p align="center"><strong>Andrew Weaver, MLIS</strong></p>
 <p align="center">weevz@uw.edu | (206) 574-8940</p>
 
-###Education###
+### Education
 ---
 __UNIVERSITY OF WASHINGTON, INFORMATION SCHOOL,__ Seattle, WA -- 2015
 
@@ -12,7 +12,7 @@ __UNIVERSITY OF WASHINGTON, JACKSON SCHOOL OF INTERNATIONAL STUDIES,__ Seattle, 
 
 _BA in Japan Studies_
 
-###Library/Archives Experience###
+### Library/Archives Experience
 ---
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __NATIONAL DIGITAL STEWARDSHIP RESIDENT AT CITY UNIVERSITY OF NEW YORK TELEVISION__ 
 
@@ -30,7 +30,7 @@ UNIVERSITY OF WASHINGTON LIBRARIES SPECIAL COLLECTIONS, __ASSISTANT TO FILM ARCH
 
 Seattle, WA -- 12/2013-08/2015
 
-###Other Work Experience
+### Other Work Experience
 ---
 ART JAPAN CO. LTD., __CONSTRUCTION MANAGEMENT__
 
@@ -40,19 +40,19 @@ SATSUMA-SENDAI BOARD OF EDUCATION, __ENGLISH TEACHER__
 
 Satsuma-Sendai, Japan -- 2007-2009
 
-###Additional Skills
+### Additional Skills
 ---
 * Bash, MySQL, XML, FFmpeg, Git Version Control, DACS, PREMIS, EAD
 * High proficiency in Japanese. Spoken level- fluent. Reading/Writing- 3rd year college level.
 
 
-###Publications
+### Publications
 ---
 * Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017) Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal,v47_, pp 41-47.
 * Widzinski L., Mandel, D., Weaver, A. Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35.
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. http://gamer.ischool.uw.edu/official_release/
 
-###Selected Presentations and Lectures
+### Selected Presentations and Lectures
 ---
 * "Demystifying FFmpeg and FFplay." AAPB NDSR Webinar Series. 01/26/2017
 * "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
@@ -65,11 +65,11 @@ Satsuma-Sendai, Japan -- 2007-2009
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015
 * "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists' Colloquium." Seattle, WA. 2/2/2015
 
-###Grants
+### Grants
 ---
 Grant Writer and Project Manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
 
-###Service
+### Service
 ---
 * Open Source Projects: 
 
@@ -79,7 +79,7 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 * Access Services Committee, University of Washington Libraries 2015-2016
 * University of Washington Information School Student Group 'iWorld' webmaster 2014-2015
 
-###Professional Affiliations
+### Professional Affiliations
 ---
 * International Association of Sound and Audiovisual Archives
 * Association of Moving Image Archivists
