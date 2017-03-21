@@ -32,7 +32,7 @@ UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Digital and Archival Media Te
 Seattle, WA -- 09/2015-07/2016
 
 * Worked on all stages of media preservation and archiving including: appraisal, description, reformatting, dissemination and digital and physical preservation
-* Developed scripts and automated systems that greatly improved effiency, accuracy, file integrity and conveneince during media digitization and ingest
+* Developed scripts and automated systems that greatly improved efficiency, accuracy, file integrity and convenience during media digitization and ingest
 * Trained and supervised staff and graduate/student employees in the execution of media preservation and circulation duties
 * Provided instruction and reference in all contexts ranging from one-on-one to classroom settings.
 * Designed workflows for large scale digitization projects of analog materials
