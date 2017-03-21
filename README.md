@@ -22,9 +22,21 @@ AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __National Digital Stewardship Resident
 
 New York, NY -- 07/2016-Present
 
+* Conducting a full survey of Library's compliance with NDSA Levels of preservation and enacting recommendations
+* Developing a MySQL based system for automated capture of PREMIS, preservation and fixity metadata
+* Researching and implementing perceptual video hashing for automated cataloging
+* Revising and writing micro-service scripts that support core digital and A/V preservation activities
+
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Digital and Archival Media Technician__ 
 
 Seattle, WA -- 09/2015-07/2016
+
+* Worked on all stages of media preservation and archiving including, appraisal,description, reformatting, dissemination and digital and physical preservation
+* Developed scripts and automated systems that greatly improved effiency, accuracy, file integrity and conveneince during media digitization and ingest
+* Trained and supervised staff and graduate/student employees in the execution of media preservation and circulation duties
+* Provided instruction and reference in all contexts ranging from one-on-one to classroom settings.
+* Designed workflows for large scale digitization projects of analog materials
+* Conducted collection surveys to analyze preservation needs as well as reformatting potential under section 108 of US Copyright law
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Graduate Reference Specialist__ 
 
