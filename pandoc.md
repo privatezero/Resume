@@ -2,7 +2,7 @@
 <p align="center">weevz@uw.edu | (206) 574-8940</p>
 
 
-#Education
+# Education
 
 __UNIVERSITY OF WASHINGTON, INFORMATION SCHOOL,__ Seattle, WA -- 2015
 
@@ -86,8 +86,13 @@ _ _ _
 
 # Service
 * Open Source Projects: 
-    * Creator/Maintainer: audiorecorder (https://github.com/amiaopensource/audiorecorder), pugetsoundandvision (https://github.com/pugetsoundandvision)
-    *Contributor: Vrecord(https://github.com/amiaopensource/vrecord)
+    * Creator/Maintainer:
+    
+      audiorecorder (https://github.com/amiaopensource/audiorecorder)
+    
+      pugetsoundandvision (https://github.com/pugetsoundandvision)
+    
+    * Contributor: Vrecord(https://github.com/amiaopensource/vrecord)
 * Access Services Committee, University of Washington Libraries 2015-2016
 * University of Washington Information School Student Group 'iWorld' webmaster 2014-2015
 
