@@ -22,9 +22,21 @@ AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __National Digital Stewardship Resident
 
 New York, NY -- 07/2016-Present
 
+* Conducting a full survey of Library's compliance with NDSA Levels of preservation and enacting recommendations
+* Developing a MySQL based system for automated capture of PREMIS, preservation and fixity metadata
+* Researching and implementing perceptual video hashing for automated cataloging
+* Revising and writing micro-service scripts that support core digital and A/V preservation activities
+
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Digital and Archival Media Technician__ 
 
 Seattle, WA -- 09/2015-07/2016
+
+* Worked on all stages of media preservation and archiving including: appraisal, description, reformatting, dissemination and digital and physical preservation
+* Developed scripts and automated systems modeled on the OAIS structure that greatly improved efficiency, accuracy, file integrity and convenience during media digitization and ingest
+* Trained and supervised staff and graduate/student employees in the execution of media preservation and circulation duties
+* Provided instruction and reference in all contexts ranging from one-on-one to classroom settings
+* Designed workflows for large scale digitization projects of analog materials
+* Conducted collection surveys to analyze preservation needs as well as reformatting potential under section 108 of US Copyright law
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Graduate Reference Specialist__ 
 
@@ -51,10 +63,9 @@ _ _ _
 # Additional Skills
 
 * Bash, MySQL, XML, FFmpeg, Git Version Control, DACS, PREMIS, EAD
-* High proficiency in Japanese. Spoken level: fluent. Reading/Writing: 3rd year college level.
+* High proficiency in Japanese. Spoken level: fluent. Reading/Writing: 3rd year college level
 
 _ _ _
-
 
 # Publications
 
@@ -72,15 +83,16 @@ _ _ _
 * "Building a Digital Preservation Community in Public Broadcasting." IASA Annual Conference 2016. Washington, DC. 09/26/2016.
 * "Tools and Resources for Multimodal Teaching and Learning." University of Washington English CIC Program. 11/13/2015.
 * "Keeping it Real: Providing Access to Physical Collections." AMIA Annual Conference 2015. Portland, OR. 11/21/2015.
-* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
+* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
-* "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015
-* "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists' Colloquium." Seattle, WA. 2/2/2015
+* "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015.
+* "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists' Colloquium." Seattle, WA. 2/2/2015.
 
 _ _ _
 
 # Grants
-Grant Writer and Project Manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the [Joseph F. Rock Ethnographic and Exploration Film Collection](http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
+
+Grant Writer and Project Manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the Joseph F. Rock Ethnographic and Exploration Film Collection (http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
 
 _ _ _
 
@@ -91,8 +103,8 @@ _ _ _
       audiorecorder (https://github.com/amiaopensource/audiorecorder)
     
       pugetsoundandvision (https://github.com/pugetsoundandvision)
-    
-    * Contributor: Vrecord(https://github.com/amiaopensource/vrecord)
+
+    * Contributor: Vrecord (https://github.com/amiaopensource/vrecord)
 * Access Services Committee, University of Washington Libraries 2015-2016
 * University of Washington Information School Student Group 'iWorld' webmaster 2014-2015
 
