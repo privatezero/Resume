@@ -77,6 +77,7 @@ _ _ _
 
 # Selected Presentations and Lectures
 
+* "Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies." NDSR Symposium. Washington, DC. 04/27/2017.
 * "Demystifying FFmpeg and FFplay." AAPB NDSR Webinar Series. 01/26/2017
 * "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
