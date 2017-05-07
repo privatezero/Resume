@@ -3,5 +3,8 @@ OUTPUTNAME=$(basename "${1}" | cut -d'.' -f1)
 if [ "${OUTPUTNAME}" = "README" ] ; then
     OUTPUTNAME=A_Weaver
 fi
-pandoc -o ~/Desktop/"${OUTPUTNAME}"_Resume.odt -f markdown -t odt --reference-odt=/usr/local/etc/custom-reference.odt "${1}"
-
+if [ $OSTYPE = 'linux-gnu' ] ; then
+	pandoc -o ~/Desktop/"${OUTPUTNAME}"_Resume.odt -f markdown -t odt --reference-odt=pandoc_script ~/.linuxbrew/Cellar/resumelinux/$(ls -t ~/.linuxbrew/Cellar/resumelinux/ | head -1)/custom-reference.odt "${1}"
+else
+	pandoc -o ~/Desktop/"${OUTPUTNAME}"_Resume.odt -f markdown -t odt --reference-odt=/usr/local/etc/custom-reference.odt "${1}"
+fi
