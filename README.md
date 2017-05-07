@@ -1,5 +1,5 @@
 <p align="center"><strong>Andrew Weaver, MLIS</strong></p>
-<p align="center">andrewweaver.info | weevz@uw.edu | (206) 574-8940</p>
+<p align="center">andrewweaver.info | weevz@uw.edu</p>
 
 _ _ _
 
