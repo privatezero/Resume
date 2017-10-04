@@ -19,6 +19,10 @@ _ _ _
 
 # Library/Archives Experience
 
+WASHINGTON STATE UNIVERSITY, __Digital Infrastructure and Preservation Librarian__
+
+Pullman, WA -- 10/2017-Present
+
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __National Digital Stewardship Resident at City University of New York Television__ 
 
 New York, NY -- 07/2016-06/2017
