@@ -82,6 +82,9 @@ _ _ _
 
 # Selected Presentations and Lectures
 
+* "Codec Encoding for Lossless Archiving and Realtime Transmission (FLAC Update)." IETF 99. Prague, Czech Republic. 07/21/2017.
+* "Preservation Showdown: Audiovisual Edition." ALA Annual Conference 2017. Chicago, IL. 06/25/2017.
+* "How Open Source Audiovisual Tools Help Archivists (And You Too!)." Open Source Bridge. Portland, OR. 06/21/2017.
 * "Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies." NDSR Symposium. Washington, DC. 04/27/2017.
 * "Demystifying FFmpeg and FFplay." AAPB NDSR Webinar Series. 01/26/2017
 * "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
