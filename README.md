@@ -21,12 +21,12 @@ _ _ _
 
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __National Digital Stewardship Resident at City University of New York Television__ 
 
-New York, NY -- 07/2016-Present
+New York, NY -- 07/2016-06/2017
 
-* Conducting a full survey of Library's compliance with NDSA Levels of preservation and enacting recommendations
-* Developing a MySQL based system for automated capture of PREMIS, preservation and fixity metadata
-* Researching and implementing perceptual video hashing for automated cataloging
-* Revising and writing micro-service scripts that support core digital and A/V preservation activities
+* Conducted a full survey of Library's compliance with NDSA Levels of preservation and enacted recommendations
+* Developed a MySQL based system for automated capture of PREMIS, preservation and fixity metadata
+* Researched and implemented perceptual video hashing for automated cataloging
+* Revised and wrote micro-service scripts that support core digital and A/V preservation activities
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Digital and Archival Media Technician__ 
 
