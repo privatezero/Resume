@@ -86,7 +86,6 @@ _ _ _
 * "Preservation Showdown: Audiovisual Edition." ALA Annual Conference 2017. Chicago, IL. 06/25/2017.
 * "How Open Source Audiovisual Tools Help Archivists (And You Too!)." Open Source Bridge. Portland, OR. 06/21/2017.
 * "Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies." NDSR Symposium. Washington, DC. 04/27/2017.
-* "Demystifying FFmpeg and FFplay." AAPB NDSR Webinar Series. 01/26/2017
 * "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
 * "Building a Digital Preservation Community in Public Broadcasting." IASA Annual Conference 2016. Washington, DC. 09/26/2016.
@@ -96,6 +95,9 @@ _ _ _
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015.
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
+
+# Invited Talks
+* "Demystifying FFmpeg and FFplay." UCLA Moving Image Archives Studies Bootcamp. 09/20/2017
 
 _ _ _
 
