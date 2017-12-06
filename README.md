@@ -82,6 +82,8 @@ _ _ _
 
 # Selected Presentations and Lectures
 
+* "Collaborative Conversion: Open Tools and Workflows in AV Preservation." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017
+* "Automation and Similarity: An Introduction to Perceptual Hashing." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017
 * "Codec Encoding for Lossless Archiving and Realtime Transmission (FLAC Update)." IETF 99. Prague, Czech Republic. 07/21/2017.
 * "Preservation Showdown: Audiovisual Edition." ALA Annual Conference 2017. Chicago, IL. 06/25/2017.
 * "How Open Source Audiovisual Tools Help Archivists (And You Too!)." Open Source Bridge. Portland, OR. 06/21/2017.
