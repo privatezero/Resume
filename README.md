@@ -95,7 +95,7 @@ _ _ _
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015.
-* "Media Archives and Japan Studies Time Based Media. UW Libraries Japanologists' Colloquium." Seattle, WA. 2/2/2015.
+* "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
 _ _ _
 
