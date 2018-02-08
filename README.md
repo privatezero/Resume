@@ -110,7 +110,7 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 _ _ _
 
 # Service
-* Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group, Document Shephard for FLAC file format standardization. 02/2018 - Present.
+* [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/), Document Shephard for FLAC file format standardization. 02/2018 - Present.
 
 * Open Source Projects: 
     * Creator/Maintainer:
