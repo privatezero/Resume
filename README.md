@@ -110,6 +110,8 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 _ _ _
 
 # Service
+* Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group, Document Shephard for FLAC file format standardization. 02/2018 - Present.
+
 * Open Source Projects: 
     * Creator/Maintainer:
     
@@ -119,7 +121,7 @@ _ _ _
 
     * Contributor: Vrecord (https://github.com/amiaopensource/vrecord)
 * Access Services Committee, University of Washington Libraries 2015-2016
-* University of Washington Information School Student Group 'iWorld' webmaster 2014-2015
+* University of Washington Information School Student Group 'iWorld', Webmaster 2014-2015
 
 _ _ _
 
