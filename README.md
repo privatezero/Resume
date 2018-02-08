@@ -123,9 +123,15 @@ _ _ _
 
 _ _ _
 
+# Selected Additional Trainings Attended
+
+05/09/2015 "Audiovisual Surgery." Bay Area Video Coalition. San Francisco, CA.
+
+09/2015 - 10/2015 "Copyright for Educators and Librarians." Duke University/Coursera.
+_ _ _
+
 # Professional Affiliations
-* International Association of Sound and Audiovisual Archives
+* Association for Recorded Sound Collections
 * Association of Moving Image Archivists
-* Northwest Archivists
 * Seattle Area Archivists
 
