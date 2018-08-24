@@ -82,11 +82,13 @@ _ _ _
 
 # Selected Presentations and Lectures
 
-* "Collaborative Conversion: Open Tools and Workflows in AV Preservation." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017
-* "Automation and Similarity: An Introduction to Perceptual Hashing." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017
+* "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." Northwest Archivists Annual Meeting 2018. Warm Springs, OR. 04/27/2018.
+* "Collaborative Conversion: Open Tools and Workflows in AV Preservation." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017.
+* "Automation and Similarity: An Introduction to Perceptual Hashing." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017.
 * "Codec Encoding for Lossless Archiving and Realtime Transmission (FLAC Update)." IETF 99. Prague, Czech Republic. 07/21/2017.
 * "Preservation Showdown: Audiovisual Edition." ALA Annual Conference 2017. Chicago, IL. 06/25/2017.
 * "How Open Source Audiovisual Tools Help Archivists (And You Too!)." Open Source Bridge. Portland, OR. 06/21/2017.
+* "Let's Do it Together! Open Tools and Workflows in A/V Preservation." Northwest Archivists Annual Meeting 2017. Boise, ID. 05/19/2017.
 * "Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies." NDSR Symposium. Washington, DC. 04/27/2017.
 * "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
@@ -110,7 +112,7 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 _ _ _
 
 # Service
-* [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/), Document Shepherd for FLAC file format standardization. 02/2018 - Present.
+* [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/) 2017 - Present.
 
 * Open Source Projects: 
     * Creator/Maintainer:
