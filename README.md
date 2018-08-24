@@ -112,6 +112,8 @@ Grant Writer and Project Manager. 2016 National Film Preservation Foundation Bas
 _ _ _
 
 # Service
+* Dspace Leadership Group 06/2018 - Present
+* WSU Libraries Employee Engagement Working Group 06/2018 - Present
 * [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/) 2017 - Present.
 
 * Open Source Projects: 
@@ -135,6 +137,7 @@ _ _ _
 _ _ _
 
 # Professional Affiliations
+* Northwest Archivists
 * Association for Recorded Sound Collections
 * Association of Moving Image Archivists
 * Seattle Area Archivists
