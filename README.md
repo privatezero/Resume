@@ -100,7 +100,8 @@ _ _ _
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015.
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
-# Invited Talks
+# Selected Invited Talks
+* "Pop-up Music Memory Event Discussion" DC Public Library Memory Lab Network Webinar. 08/28/2018
 * "Demystifying FFmpeg and FFplay." UCLA Moving Image Archives Studies Bootcamp. 09/20/2017
 
 _ _ _
