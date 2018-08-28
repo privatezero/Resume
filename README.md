@@ -101,7 +101,7 @@ _ _ _
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
 # Selected Invited Talks
-* "Pop-up Music Memory Event Discussion" DC Public Library Memory Lab Network Webinar. 08/28/2018
+* "Pop-up Music Memory Event Discussion." DC Public Library Memory Lab Network Webinar. 08/28/2018
 * "Demystifying FFmpeg and FFplay." UCLA Moving Image Archives Studies Bootcamp. 09/20/2017
 
 _ _ _
