@@ -23,6 +23,10 @@ WASHINGTON STATE UNIVERSITY, __Digital Infrastructure and Preservation Librarian
 
 Pullman, WA -- 10/2017-Present
 
+Moving Image Preservation of Puget Sound, __Consultant__
+
+Seattle, WA -- 06/2017-Present
+
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __National Digital Stewardship Resident at City University of New York Television__ 
 
 New York, NY -- 07/2016-06/2017
