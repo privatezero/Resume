@@ -128,6 +128,8 @@ _ _ _
     * Creator/Maintainer:
     
       audiorecorder (https://github.com/amiaopensource/audiorecorder)
+      
+      ffmprovisr (https://amiaopensource.github.io/ffmprovisr/)
     
       pugetsoundandvision (https://github.com/pugetsoundandvision)
 
