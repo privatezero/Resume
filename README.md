@@ -87,6 +87,8 @@ _ _ _
 
 # Selected Presentations and Lectures
 
+* "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
+* "vrecord: An Open Source Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." Northwest Archivists Annual Meeting 2018. Warm Springs, OR. 04/27/2018.
 * "Collaborative Conversion: Open Tools and Workflows in AV Preservation." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017.
 * "Automation and Similarity: An Introduction to Perceptual Hashing." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017.
