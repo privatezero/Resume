@@ -23,7 +23,7 @@ WASHINGTON STATE UNIVERSITY, __Digital Infrastructure and Preservation Librarian
 
 Pullman, WA -- 10/2017-Present
 
-Moving Image Preservation of Puget Sound, __Consultant__
+MOVING IMAGE PRESERVATION OF PUGET SOUND, __Consultant__
 
 Seattle, WA -- 06/2017-Present
 
