@@ -71,7 +71,7 @@ _ _ _
 
 # Additional Skills
 
-* DACS, PREMIS, EAD, Bash, MySQL, XML, FFmpeg, Git, HTML, CSS
+* FFmpeg, DACS, PREMIS, EAD, Git, Ruby, Bash, MySQL, XML, HTML, CSS
 * High proficiency in Japanese. Spoken level: fluent. Reading/Writing: 3rd year college level
 
 _ _ _
