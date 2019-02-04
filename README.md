@@ -123,12 +123,13 @@ Allen Signature Awards Grant, "Milo Ryan Phonoarchive Digitization Project". ($6
 
 _ _ _
 
-# Service
-* Dspace Leadership Group 06/2018 - Present
-* WSU Libraries Employee Engagement Working Group 06/2018 - Present
-* [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/) 2017 - Present.
+# Professional Service
 
-* Open Source Projects: 
+* AMIA Open Source Committee Governance Working Group, 11/2018 - Present
+* Dspace Leadership Group, 06/2018 - Present
+* [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/), 2017 - Present.
+
+* Audiovisual Open Source Projects: 
     * Creator/Maintainer:
     
       audiorecorder (https://github.com/amiaopensource/audiorecorder)
@@ -138,8 +139,10 @@ _ _ _
       pugetsoundandvision (https://github.com/pugetsoundandvision)
 
     * Contributor: Vrecord (https://github.com/amiaopensource/vrecord)
-* Access Services Committee, University of Washington Libraries 2015-2016
-* University of Washington Information School Student Group 'iWorld', Webmaster 2014-2015
+
+# University Service
+* Employee Engagement Working Group, Washington State University Libraries, 2018 - Present
+* Access Services Committee, University of Washington Libraries, 2015-2016
 
 _ _ _
 
