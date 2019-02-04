@@ -130,7 +130,7 @@ _ _ _
 * [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/), 2017 - Present.
 
 * Audiovisual Open Source Projects: 
-    * Creator/Maintainer:
+    * Project Maintainer:
     
       audiorecorder (https://github.com/amiaopensource/audiorecorder)
       
@@ -138,7 +138,7 @@ _ _ _
     
       pugetsoundandvision (https://github.com/pugetsoundandvision)
 
-    * Contributor: Vrecord (https://github.com/amiaopensource/vrecord)
+    * Project Contributor: Vrecord (https://github.com/amiaopensource/vrecord)
 
 # University Service
 * Employee Engagement Working Group, Washington State University Libraries, 2018 - Present
