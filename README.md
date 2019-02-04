@@ -115,7 +115,11 @@ _ _ _
 
 # Grants
 
-Grant Writer and Project Manager. 2016 National Film Preservation Foundation Basic Preservation Grant to preserve the Joseph F. Rock Ethnographic and Exploration Film Collection (http://archiveswest.orbiscascade.org/ark:/80444/xv60098/op=fstyle.aspx?t=i&q=waseumc) ($10,495). Fully Funded.
+NEH Research and Development Grant, "DV Rescue" ($191,835). 2019-2021. Supporting Author
+
+National Film Preservation Foundation Basic Preservation Grant, "Joseph F. Rock Ethnographic and Exploration Film Collection" ($10,495). 2016. Primary Author
+
+Allen Signature Awards Grant, "Milo Ryan Phonoarchive Digitization Project". ($65,000). 2016-2017. Supporting Author
 
 _ _ _
 
