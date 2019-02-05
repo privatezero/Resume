@@ -117,7 +117,7 @@ _ _ _
 
 NEH Research and Development Grant, "DV Rescue," ($191,835). 2019-2021. Supporting Author
 
-National Film Preservation Foundation Basic Preservation Grant, "Joseph F. Rock Ethnographic and Exploration Film Collection", ($10,495). 2016. Primary Author
+National Film Preservation Foundation Basic Preservation Grant, "Joseph F. Rock Ethnographic and Exploration Film Collection," ($10,495). 2016. Primary Author
 
 Allen Signature Awards Grant, "Milo Ryan Phonoarchive Digitization Project," ($65,000). 2016-2017. Supporting Author
 
