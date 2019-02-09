@@ -85,8 +85,7 @@ _ _ _
 
 _ _ _
 
-# Selected Presentations and Lectures
-
+# Selected Presentations
 * "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "vrecord: An Open Source Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." Northwest Archivists Annual Meeting 2018. Warm Springs, OR. 04/27/2018.
@@ -100,16 +99,16 @@ _ _ _
 * "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
 * "Building a Digital Preservation Community in Public Broadcasting." IASA Annual Conference 2016. Washington, DC. 09/26/2016.
-* "Tools and Resources for Multimodal Teaching and Learning." University of Washington English CIC Program. 11/13/2015.
 * "Keeping it Real: Providing Access to Physical Collections." AMIA Annual Conference 2015. Portland, OR. 11/21/2015.
 * "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015.
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
-# Selected Invited Talks
+# Selected Guest Lectures
 * "Pop-up Music Memory Event Discussion." DC Public Library Memory Lab Network Webinar. 08/28/2018
 * "Demystifying FFmpeg and FFplay." UCLA Moving Image Archives Studies Bootcamp. 09/20/2017
+* "Tools and Resources for Multimodal Teaching and Learning." University of Washington English CIC Program. 11/13/2015.
 
 _ _ _
 
@@ -125,9 +124,10 @@ _ _ _
 
 # Professional Service
 
-* AMIA Open Source Committee Governance Working Group, 11/2018 - Present
-* Dspace Leadership Group, 06/2018 - Present
+* AMIA Open Source Committee Governance Working Group, 11/2018 - Present.
+* Dspace Leadership Group, 06/2018 - Present.
 * [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/), 2017 - Present.
+* XFR Collective NY, 2016 - 2017.
 
 * Audiovisual Open Source Projects: 
     * Project Maintainer:
