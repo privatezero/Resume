@@ -138,7 +138,7 @@ _ _ _
     
       pugetsoundandvision (https://github.com/pugetsoundandvision)
 
-    * Project Contributor: Vrecord (https://github.com/amiaopensource/vrecord)
+      Vrecord (https://github.com/amiaopensource/vrecord)
 
 # University Service
 * Employee Engagement Working Group, Washington State University Libraries, 2018 - Present
