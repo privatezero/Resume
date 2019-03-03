@@ -151,6 +151,7 @@ _ _ _
 05/09/2015 "Audiovisual Surgery." Bay Area Video Coalition. San Francisco, CA.
 
 09/2015 - 10/2015 "Copyright for Educators and Librarians." Duke University/Coursera.
+
 _ _ _
 
 # Professional Affiliations
