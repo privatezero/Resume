@@ -19,33 +19,26 @@ _ _ _
 
 # Library/Archives Experience
 
-WASHINGTON STATE UNIVERSITY, __Digital Infrastructure and Preservation Librarian__
 
-Pullman, WA -- 10/2017-Present
+University of Washington, __Media Preservation Librarian__
+
+Seattle, WA -- 09/2019-Present
 
 MOVING IMAGE PRESERVATION OF PUGET SOUND, __Consultant__
 
 Seattle, WA -- 06/2017-Present
 
+WASHINGTON STATE UNIVERSITY, __Digital Infrastructure and Preservation Librarian__
+
+Pullman, WA -- 10/2017-08/2019
+
 AMERICAN ARCHIVE OF PUBLIC BROADCASTING, __National Digital Stewardship Resident at City University of New York Television__ 
 
 New York, NY -- 07/2016-06/2017
 
-* Conducted a full survey of Library's compliance with NDSA Levels of preservation and enacted recommendations
-* Developed a MySQL based system for automated capture of PREMIS, preservation and fixity metadata
-* Researched and implemented perceptual video hashing for automated cataloging
-* Revised and wrote micro-service scripts that support core digital and A/V preservation activities
-
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Digital and Archival Media Technician__ 
 
 Seattle, WA -- 09/2015-07/2016
-
-* Worked on all stages of media preservation and archiving including: appraisal, description, reformatting, dissemination and digital and physical preservation
-* Developed scripts and automated systems modeled on the OAIS structure that greatly improved efficiency, accuracy, file integrity and convenience during media digitization and ingest
-* Trained and supervised staff and graduate/student employees in the execution of media preservation and circulation duties
-* Provided instruction and reference in all contexts ranging from one-on-one to classroom settings
-* Designed workflows for large scale digitization projects of analog materials
-* Conducted collection surveys to analyze preservation needs as well as reformatting potential under section 108 of US Copyright law
 
 UNIVERSITY OF WASHINGTON LIBRARIES MEDIA CENTER, __Graduate Reference Specialist__ 
 
