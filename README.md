@@ -114,6 +114,11 @@ National Film Preservation Foundation Basic Preservation Grant, "Joseph F. Rock 
 Allen Signature Awards Grant, "Milo Ryan Phonoarchive Digitization Project," ($65,000). 2016-2017. Supporting Author
 
 _ _ _
+# Awards
+
+* [Best First Time Contribution Award](https://ipres2019.org/program/awards/), iPRES 2019 (Amsterdam)
+
+_ _ _
 
 # Professional Service
 
