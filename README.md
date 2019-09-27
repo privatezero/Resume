@@ -71,7 +71,7 @@ _ _ _
 
 # Publications
 
-* Vallier J., Weaver A. (2018) Digital Scholarship and Media. DS’s AV Clubs: UW Media Arcade and MAD Lab. In _The Culture of Digital Scholarship in Academic Libraries_. Chicago, IL: ALA Editions. (In Press) 
+* Vallier J., Weaver A. (2019) Media Services. _The Culture of Digital Scholarship in Academic Libraries_. Chicago, IL: ALA Editions. 
 * Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017) Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal,v47_, pp 41-47.
 * Widzinski L., Mandel, D., Weaver, A., Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35.
 * Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. http://gamer.ischool.uw.edu/official_release/
