@@ -79,6 +79,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
+* "You Got This! Empowering Archivists to Use Open Tools to Process A/V Materials." Northwest Archivists Annual Meeting 2019. Bozeman, MT. 05/16/2019. 
 * "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "vrecord: An Open Source Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." Northwest Archivists Annual Meeting 2018. Warm Springs, OR. 04/27/2018.
