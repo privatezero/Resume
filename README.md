@@ -24,10 +24,6 @@ University of Washington, __Media Preservation Librarian__
 
 Seattle, WA -- 09/2019-Present
 
-MOVING IMAGE PRESERVATION OF PUGET SOUND, __Consultant__
-
-Seattle, WA -- 06/2017-Present
-
 WASHINGTON STATE UNIVERSITY, __Digital Infrastructure and Preservation Librarian__
 
 Pullman, WA -- 10/2017-08/2019
@@ -139,6 +135,8 @@ _ _ _
       pugetsoundandvision (https://github.com/pugetsoundandvision)
 
       Vrecord (https://github.com/amiaopensource/vrecord)
+      
+* 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
 # University Service
 * Employee Engagement Working Group, Washington State University Libraries, 2018 - Present
