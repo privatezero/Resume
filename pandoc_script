@@ -5,8 +5,8 @@ if [ "${OUTPUTNAME}" = "README" ] ; then
     OUTPUTNAME=A_Weaver
 fi
 if [ $OSTYPE = 'linux-gnu' ] ; then
-    if [ -d "$HOME/.linuxbrew/Cellar/resumelinux/" ] ; then
-       REFERENCE="$HOME/linuxbrew/.linuxbrew/Cellar/resumelinux/$(ls -t ~/.linuxbrew/Cellar/resumelinux/ | head -1)/custom-reference.odt"
+    if [ -d /home/linuxbrew/.linuxbrew/Cellar/resumelinux/" ] ; then
+       REFERENCE="/home/linuxbrew/.linuxbrew/Cellar/resumelinux/$(ls -t /home/linuxbrew/.linuxbrew/Cellar/resumelinux/ | head -1)/custom-reference.odt"
     else
         REFERENCE="./custom-reference.odt"
     fi
