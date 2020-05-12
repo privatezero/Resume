@@ -6,7 +6,7 @@ if [ "${OUTPUTNAME}" = "README" ] ; then
 fi
 if [ $OSTYPE = 'linux-gnu' ] ; then
     if [ -d "$HOME/.linuxbrew/Cellar/resumelinux/" ] ; then
-       REFERENCE="$HOME/.linuxbrew/Cellar/resumelinux/$(ls -t ~/.linuxbrew/Cellar/resumelinux/ | head -1)/custom-reference.odt"
+       REFERENCE="$HOME/linuxbrew/.linuxbrew/Cellar/resumelinux/$(ls -t ~/.linuxbrew/Cellar/resumelinux/ | head -1)/custom-reference.odt"
     else
         REFERENCE="./custom-reference.odt"
     fi
