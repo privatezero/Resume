@@ -76,7 +76,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* "Improving Accessibility of Library Resources during a Pandemic." Orbis Cascade Alliance DUX/Systems Joint Program Meeting. Remote event. 07/29/2020.
+* "Improving Accessibility of Library Resources during a Pandemic." Orbis Cascade Alliance DUX/Systems Joint Program Meeting. Remote Event. 07/29/2020.
 * "You Got This! Empowering Archivists to Use Open Tools to Process A/V Materials." Northwest Archivists Annual Meeting 2019. Bozeman, MT. 05/16/2019. 
 * "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "vrecord: An Open Source Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
