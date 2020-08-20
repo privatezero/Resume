@@ -71,7 +71,7 @@ _ _ _
 * Vallier J., Weaver A. (2019) Media Services. In R.C. Roemer & V. Kern (Eds.), _The Culture of Digital Scholarship in Academic Libraries_. (pp 163-179). ALA Editions. https://digital.lib.washington.edu/researchworks/handle/1773/44482
 * Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017) Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal,v47_, (pp 41-47). http://journal.iasa-web.org/pubs/article/download/54/29
 * Widzinski L., Mandel, D., Weaver, A., Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35. https://docs.lib.purdue.edu/atg/vol28/iss5/14/
-* Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. http://gamer.ischool.uw.edu/official_release/
+* Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. https://gamer.ischool.uw.edu/files/2019/09/VGMS_CV_Genre_v.1.1_20150622.pdf
 
 _ _ _
 
