@@ -76,7 +76,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* "Audioqc: Speedy Quality Control Through Automation." Library of Congress I\V/A\V: Informal Virtual Audio Visual Summit. Remote Even. 09/15/2020  
+* "Audioqc: Speedy Quality Control Through Automation." Library of Congress I\V/A\V: Informal Virtual Audio Visual Summit. Remote Event. 09/15/2020  
 * "Improving Accessibility of Library Resources During a Pandemic." Orbis Cascade Alliance DUX/Systems Joint Program Meeting. Remote Event. 07/29/2020.
 * "You Got This! Empowering Archivists to Use Open Tools to Process A/V Materials." Northwest Archivists Annual Meeting 2019. Bozeman, MT. 05/16/2019. 
 * "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
