@@ -146,6 +146,7 @@ _ _ _
 * 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
 # University Service
+* SLOTS Working Group, University of Washington Libraries, 2020 - Present
 * Employee Engagement Working Group, Washington State University Libraries, 2018 - Present
 * Access Services Committee, University of Washington Libraries, 2015-2016
 
