@@ -112,6 +112,8 @@ _ _ _
 
 # Grants
 
+National Film Preservation Foundation Basic Preservation Grant, "Robert Garfias American Music Film Collection," ($17,168). 2020. Primary Investigator
+
 NEH Research and Development Grant, "DV Rescue," ($191,835). 2019-2021. Supporting Author
 
 National Film Preservation Foundation Basic Preservation Grant, "Joseph F. Rock Ethnographic and Exploration Film Collection," ($10,495). 2016. Primary Author
