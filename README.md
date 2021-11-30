@@ -76,11 +76,11 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 2021/11/19
-* "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" NW Archivists Annual Meeting 2021. Remote Event. 2021/05/13
-* "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" NW Archivists Annual Meeting 2021. Remote Event. 2021/05/12
-* "Debugging DV." AMIA Spring 2021 Conference. Remote Event. 2021/04/16
-* "You’ll never QC alone: applications of automated quality control aids." _Poster_. AMIA Spring 2021 Conference. Remote Event. 2021/04/15
+* "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 11/19/2021
+* "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" NW Archivists Annual Meeting 2021. Remote Event. 05/13/2021
+* "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" NW Archivists Annual Meeting 2021. Remote Event. 05/12/2021
+* "Debugging DV." AMIA Spring 2021 Conference. Remote Event. 04/16/2021
+* "You’ll never QC alone: applications of automated quality control aids." _Poster_. AMIA Spring 2021 Conference. Remote Event. 04/15/2021
 * "Return of the DVRescuer." AMIA Annual Conference 2020. Remote Event. 11/19/2020
 * "Audioqc: Speedy Quality Control Through Automation." Library of Congress I\V/A\V: Informal Virtual Audio Visual Summit. Remote Event. 09/15/2020  
 * "Improving Accessibility of Library Resources During a Pandemic." Orbis Cascade Alliance DUX/Systems Joint Program Meeting. Remote Event. 07/29/2020.
