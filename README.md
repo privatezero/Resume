@@ -76,6 +76,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
+* "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 2021/11/19
 * "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" NW Archivists Annual Meeting 2021. Remote Event. 2021/05/13
 * "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" NW Archivists Annual Meeting 2021. Remote Event. 2021/05/12
 * "Debugging DV." AMIA Spring 2021 Conference. Remote Event. 2021/04/16
