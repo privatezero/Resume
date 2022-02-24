@@ -153,9 +153,9 @@ _ _ _
 * 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
 # University Service
-* 2022 LPC Review Committee
-* 2022 Distinguished Librarian Award Selection Committee
-* Digital Workflows Checklist Team 2020 - Present
+* 2022 LPC Review Committee, University of Washington Libraries
+* 2022 Distinguished Librarian Award Selection Committee, University of Washington Libraries
+* Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
 * Employee Engagement Working Group, Washington State University Libraries, 2018 - 2019
 * Access Services Committee, University of Washington Libraries, 2015-2016
