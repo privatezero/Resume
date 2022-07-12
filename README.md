@@ -76,6 +76,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
+* "Visioning a Northwest Digital Video and Moving Image Repository" [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 05/04/2022 
 * "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 11/19/2021
 * "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" NW Archivists Annual Meeting 2021. Remote Event. 05/13/2021
 * "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" NW Archivists Annual Meeting 2021. Remote Event. 05/12/2021
