@@ -133,7 +133,7 @@ _ _ _
 _ _ _
 
 # Professional Service
-
+* Northwest Archivists Virtual Conference Arrangements Committee 2022, 01/2022 - 05/2022.
 * AMIA Open Source Committee Governance Working Group, 11/2018 - Present.
 * Dspace Leadership Group, 06/2018 - 2019.
 * [Codec Encoding for LossLess Archiving and Realtime Transmission (CELLAR) Working Group](https://datatracker.ietf.org/wg/cellar/about/), 2017 - 2019.
