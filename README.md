@@ -89,18 +89,18 @@ _ _ _
 * "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "vrecord: An Open Source Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." Northwest Archivists Annual Meeting 2018. Warm Springs, OR. 04/27/2018.
-* "Collaborative Conversion: Open Tools and Workflows in AV Preservation." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017.
-* "Automation and Similarity: An Introduction to Perceptual Hashing." AMIA Annual Conference 2017. New Orleans, LA. 12/02/2017.
+* "Collaborative Conversion: Open Tools and Workflows in AV Preservation." [AMIA Annual Conference 2017](https://web.archive.org/web/20171220002633/http://www.amiaconference.net/3037-2). New Orleans, LA. 12/02/2017.
+* "Automation and Similarity: An Introduction to Perceptual Hashing." [AMIA Annual Conference 2017](https://web.archive.org/web/20171220002633/http://www.amiaconference.net/3037-2). New Orleans, LA. 12/02/2017.
 * "Codec Encoding for Lossless Archiving and Realtime Transmission (FLAC Update)." IETF 99. Prague, Czech Republic. 07/21/2017.
-* "Preservation Showdown: Audiovisual Edition." ALA Annual Conference 2017. Chicago, IL. 06/25/2017.
-* "How Open Source Audiovisual Tools Help Archivists (And You Too!)." Open Source Bridge. Portland, OR. 06/21/2017.
-* "Let's Do it Together! Open Tools and Workflows in A/V Preservation." Northwest Archivists Annual Meeting 2017. Boise, ID. 05/19/2017.
-* "Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies." NDSR Symposium. Washington, DC. 04/27/2017.
-* "Planning for Preservation in Public Media: An AAPB NDSR Update." AMIA Annual Conference 2016. Pittsburgh, PA. 11/12/2016.
-* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. IASA Annual Conference 2016. Washington, DC. 09/27/2016. 
+* "Preservation Showdown: Audiovisual Edition." [ALA Annual Conference 2017](https://web.archive.org/web/20170714012040/https://www.eventscribe.com/2017/ALA-Annual/fsPopup.asp?Mode=presInfo&PresentationID=257918). Chicago, IL. 06/25/2017.
+* "How Open Source Audiovisual Tools Help Archivists (And You Too!)." [Open Source Bridge 2017](https://web.archive.org/web/20170829022333/http://opensourcebridge.org/events/2017/sessions). Portland, OR. 06/21/2017.
+* "Let's Do it Together! Open Tools and Workflows in A/V Preservation." [Northwest Archivists Annual Meeting 2017](https://web.archive.org/web/20220419173805/https://northwestarchivistsinc.wildapricot.org/resources/Pictures/NWA%20CIMA%20Conference%20Program%20single%20fixed.pdf). Boise, ID. 05/19/2017.
+* "Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies." [NDSR Symposium](https://web.archive.org/web/20210129081033/https://ndsr-program.org/symposium-schedule/). Washington, DC. 04/27/2017.
+* "Planning for Preservation in Public Media: An AAPB NDSR Update." [AMIA Annual Conference 2016](https://web.archive.org/web/20161214222631/http://www.amiaconference.net/preliminary-program-2/). Pittsburgh, PA. 11/12/2016.
+* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_. [IASA Annual Conference 2016](https://web.archive.org/web/20220707163752/https://2016.iasa-web.org/programme.html). Washington, DC. 09/27/2016. 
 * "Building a Digital Preservation Community in Public Broadcasting." IASA Annual Conference 2016. Washington, DC. 09/26/2016.
-* "Keeping it Real: Providing Access to Physical Collections." AMIA Annual Conference 2015. Portland, OR. 11/21/2015.
-* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." AMIA Annual Conference 2015. Portland, OR. 11/19/2015.
+* "Keeping it Real: Providing Access to Physical Collections." [AMIA Annual Conference 2015](https://web.archive.org/web/20151217150048/http://www.amiaconference.net/conference-sessions-workshops-saturday/). Portland, OR. 11/21/2015.
+* "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." _Poster_ [AMIA Annual Conference 2015](https://web.archive.org/web/20151218123948/http://www.amiaconference.net/conference-sessions-workshops-thursday). Portland, OR. 11/19/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
 * "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection." Pacific Northwest Music Librarians Association. Eugene, OR. 5/5/2015.
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
