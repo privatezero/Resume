@@ -106,6 +106,7 @@ _ _ _
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
 # Selected Guest Lectures and Instruction
+* "Introduction to FFmpeg." AMIA Lecture Series: Open Source. 07/20/2022
 * "Managing and Preserving Digital Files: Audio/Visual Outsourcing and Digital Preservation." We are History Keepers. 11/06/2021
 * "Caring for and Digitizing Legacy Audio-Visual Materials." We are History Keepers. 03/27/2021
 * "How to Care for and Preserve Audio/Visual Collections." We Are History Keepers. 07/25/2020
