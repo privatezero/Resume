@@ -78,17 +78,17 @@ _ _ _
 # Selected Presentations
 * "Visioning a Northwest Digital Video and Moving Image Repository" [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 05/04/2022 
 * "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 11/19/2021
-* "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" NW Archivists Annual Meeting 2021. Remote Event. 05/13/2021
-* "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" NW Archivists Annual Meeting 2021. Remote Event. 05/12/2021
+* "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" [NW Archivists Annual Meeting 2021](https://web.archive.org/web/20220419183936/https://northwestarchivistsinc.wildapricot.org/resources/Documents/UPDATED-nwa-2021_scheduling_draft%20-%20Public%20Schedule-draft.pdf). Remote Event. 05/13/2021
+* "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [NW Archivists Annual Meeting 2021](https://web.archive.org/web/20220419183936/https://northwestarchivistsinc.wildapricot.org/resources/Documents/UPDATED-nwa-2021_scheduling_draft%20-%20Public%20Schedule-draft.pdf). Remote Event. 05/12/2021
 * "Debugging DV." AMIA Spring 2021 Conference. Remote Event. 04/16/2021
 * "You’ll never QC alone: applications of automated quality control aids." _Poster_. AMIA Spring 2021 Conference. Remote Event. 04/15/2021
 * "Return of the DVRescuer." AMIA Annual Conference 2020. Remote Event. 11/19/2020
 * "Audioqc: Speedy Quality Control Through Automation." Library of Congress I\V/A\V: Informal Virtual Audio Visual Summit. Remote Event. 09/15/2020  
 * "Improving Accessibility of Library Resources During a Pandemic." Orbis Cascade Alliance DUX/Systems Joint Program Meeting. Remote Event. 07/29/2020.
-* "You Got This! Empowering Archivists to Use Open Tools to Process A/V Materials." Northwest Archivists Annual Meeting 2019. Bozeman, MT. 05/16/2019. 
+* "You Got This! Empowering Archivists to Use Open Tools to Process A/V Materials." [Northwest Archivists Annual Meeting 2019](https://web.archive.org/web/20220619092254/https://northwestarchivistsinc.wildapricot.org/Conference-Program). Bozeman, MT. 05/16/2019. 
 * "Strategies and Outcomes for Public Digitization Events: A Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
 * "vrecord: An Open Source Case Study." AMIA Annual Conference 2018. Portland, OR. 12/01/2018.
-* "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." Northwest Archivists Annual Meeting 2018. Warm Springs, OR. 04/27/2018.
+* "Beyond Pressing Play: Tools and Strategies for High Quality Reformatting of Field Recorded Materials." [Northwest Archivists Annual Meeting 2018](https://web.archive.org/web/20220420000615/https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA2018program-FINAL%20UPDATE.pdf). Warm Springs, OR. 04/27/2018.
 * "Collaborative Conversion: Open Tools and Workflows in AV Preservation." [AMIA Annual Conference 2017](https://web.archive.org/web/20171220002633/http://www.amiaconference.net/3037-2). New Orleans, LA. 12/02/2017.
 * "Automation and Similarity: An Introduction to Perceptual Hashing." [AMIA Annual Conference 2017](https://web.archive.org/web/20171220002633/http://www.amiaconference.net/3037-2). New Orleans, LA. 12/02/2017.
 * "Codec Encoding for Lossless Archiving and Realtime Transmission (FLAC Update)." IETF 99. Prague, Czech Republic. 07/21/2017.
