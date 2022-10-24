@@ -76,7 +76,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [IASA Annual Meeting](https://2022.iasa-web.org/programme). Online Stream. 9/26/2022 - 9/29/2022
+* "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [IASA Annual Meeting](https://2022.iasa-web.org/programme). Mexico City/Online Stream. 9/26/2022 - 9/29/2022
 * "Visioning a Northwest Digital Video and Moving Image Repository" [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 05/04/2022 
 * "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 11/19/2021
 * "Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" [NW Archivists Annual Meeting 2021](https://web.archive.org/web/20220419183936/https://northwestarchivistsinc.wildapricot.org/resources/Documents/UPDATED-nwa-2021_scheduling_draft%20-%20Public%20Schedule-draft.pdf). Remote Event. 05/13/2021
@@ -107,6 +107,7 @@ _ _ _
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
 # Selected Guest Lectures and Instruction
+* "Oral Histories - Planning, conducting, and preserving and using oral histories." We are History Keepers. 10/22/2022
 * "Introduction to FFmpeg." AMIA Lecture Series: Open Source. 07/20/2022
 * "Managing and Preserving Digital Files: Audio/Visual Outsourcing and Digital Preservation." We are History Keepers. 11/06/2021
 * "Caring for and Digitizing Legacy Audio-Visual Materials." We are History Keepers. 03/27/2021
