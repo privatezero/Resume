@@ -76,6 +76,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
+* "CUE It Up! An Effective Solution for Mass CD-DA Migration" [No Time To Wait 6](https://mediaarea.net/NoTimeToWait6). The Hague, Netherlands. 10/26/2022 - 10/28/2022
 * "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [IASA Annual Meeting](https://2022.iasa-web.org/programme). Mexico City/Online Stream. 9/26/2022 - 9/29/2022
 * "Visioning a Northwest Digital Video and Moving Image Repository" [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 05/04/2022 
 * "DVRescue: Project Conclusions & Future Work" AMIA Fall 2021 Conference. Remote Event. 11/19/2021
