@@ -77,7 +77,7 @@ _ _ _
 
 # Selected Presentations
 * "Enter the Robot! A Case Study in Optical Media Migration" _Poster_. [AMIA Annual Conference](https://amiaconference.net/amia-2022-program/). Pittsburgh, PA. 12/8/2022
-* "CUE It Up! An Effective Solution for Mass CD-DA Migration" _Lightning talk_ [No Time To Wait 6](https://mediaarea.net/NoTimeToWait6). The Hague, Netherlands. 10/26/2022 - 10/28/2022
+* "CUE It Up! An Effective Solution for Mass CD-DA Migration" _Lightning talk_. [No Time To Wait 6](https://mediaarea.net/NoTimeToWait6). The Hague, Netherlands. 10/26/2022 - 10/28/2022
 * "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [IASA Annual Meeting](https://2022.iasa-web.org/programme). Mexico City/Online Stream. 9/26/2022 - 9/29/2022
 * "Visioning a Northwest Digital Video and Moving Image Repository" [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 05/04/2022 
 * "DVRescue: Project Conclusions & Future Work" [AMIA Fall 2021 Conference](https://amiaconference.net/conference-program/). Remote Event. 11/19/2021
