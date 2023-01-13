@@ -151,8 +151,6 @@ _ _ _
       audiorecorder (https://github.com/amiaopensource/audiorecorder)
       
       ffmprovisr (https://amiaopensource.github.io/ffmprovisr)
-    
-      pugetsoundandvision (https://github.com/pugetsoundandvision)
 
       Vrecord (https://github.com/amiaopensource/vrecord)
       
