@@ -159,6 +159,9 @@ _ _ _
 * 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
 # University Service
+* 2023 LPC Review Committee, University of Washington Libraries
+* 2023 Distinguished Librarian Award Selection Committee, University of Washington Libraries
+* Student Employee Appreciation and Scholarship Committee 8/2022 - Present
 * 2022 LPC Review Committee, University of Washington Libraries
 * 2022 Distinguished Librarian Award Selection Committee, University of Washington Libraries
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
