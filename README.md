@@ -139,6 +139,7 @@ _ _ _
 _ _ _
 
 # Professional Service
+* National Digital Stewardship Alliance: Digital Preservation 2023 Conference Planning Committee, 01/2023 - Present
 * Northwest Archivists Virtual Conference Arrangements Committee 2022, 01/2022 - 05/2022.
 * AMIA Open Source Committee Governance Working Group, 11/2018 - Present.
 * Dspace Leadership Group, 06/2018 - 2019.
@@ -157,13 +158,14 @@ _ _ _
 * 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
 # University Service
-* 2023 LPC Review Committee, University of Washington Libraries
-* 2023 Distinguished Librarian Award Selection Committee, University of Washington Libraries
-* Student Employee Appreciation and Scholarship Committee 8/2022 - Present
-* 2022 LPC Review Committee, University of Washington Libraries
-* 2022 Distinguished Librarian Award Selection Committee, University of Washington Libraries
+* Library Research Award for Undergraduates Committee 3/2023 - Present
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
+* Student Employee Appreciation and Scholarship Committee 8/2022 - Present
+* 2023 LPC Review Committee, University of Washington Libraries
+* 2023 Distinguished Librarian Award Selection Committee, University of Washington Libraries
+* 2022 LPC Review Committee, University of Washington Libraries
+* 2022 Distinguished Librarian Award Selection Committee, University of Washington Libraries
 * Employee Engagement Working Group, Washington State University Libraries, 2018 - 2019
 * Access Services Committee, University of Washington Libraries, 2015-2016
 
