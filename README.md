@@ -109,6 +109,8 @@ _ _ _
 * "Media Archives and Japan Studies Time Based Media." UW Libraries Japanologists' Colloquium. Seattle, WA. 2/2/2015.
 
 # Selected Guest Lectures and Instruction
+* "A/V 101." Washington State Historical Society Sponsored workshop. 05/16/2023
+* "A/V 101." Northwest Archivists Annual Meeting 2023. 05/03/2023
 * "Oral Histories - Planning, conducting, and preserving and using oral histories." We are History Keepers. 10/22/2022
 * "Introduction to FFmpeg." AMIA Lecture Series: Open Source. 07/20/2022
 * "Managing and Preserving Digital Files: Audio/Visual Outsourcing and Digital Preservation." We are History Keepers. 11/06/2021
