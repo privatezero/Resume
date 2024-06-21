@@ -141,7 +141,7 @@ _ _ _
 _ _ _
 
 # Professional Service
-* National Digital Stewardship Alliance: Digital Preservation 2023 Conference Planning Committee, 01/2023 - Present
+* National Digital Stewardship Alliance: Digital Preservation 2023 Conference Planning Committee, 01/2023 - 11/2023
 * Northwest Archivists Virtual Conference Arrangements Committee 2022, 01/2022 - 05/2022.
 * AMIA Open Source Committee Governance Working Group, 11/2018 - Present.
 * Dspace Leadership Group, 06/2018 - 2019.
