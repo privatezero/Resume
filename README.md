@@ -77,7 +77,8 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* Weaver, A. (12/8/2022)._"Enter the Robot! A Case Study in Optical Media Migration"_ [Poster presentation]. [AMIA Annual Conference](https://amiaconference.net/amia-2022-program/). Pittsburgh, PA.
+* Weaver, A (5/9/2024). "Native Northwest Online: Quality Control Metrics and Methods for Linguistics Digitization" Poster Presentation. NW Archivists Annual Meeting 2024. Spokane, WA.
+* Weaver, A. (12/8/2022). "Enter the Robot! A Case Study in Optical Media Migration" [Poster presentation]. [AMIA Annual Conference](https://amiaconference.net/amia-2022-program/). Pittsburgh, PA.
 * Weaver, A. (10/28/2022). "CUE It Up! An Effective Solution for Mass CD-DA Migration" [Lightning talk]. [No Time To Wait 6](https://mediaarea.net/NoTimeToWait6). The Hague, Netherlands.
 * Hopfauf, L., Rice, D., Weaver, A. (9/26/2022 - 9/29/2022). "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [Conference presentation]. [IASA Annual Meeting](https://2022.iasa-web.org/programme). Mexico City/Online.
 * Fuqua, F., Battistella, M. F., Weaver A., Palin, H. Petersen, C., Moore, M., Lucas, C. (05/04/2022)."Visioning a Northwest Digital Video and Moving Image Repository" [Conference panel]. [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 
@@ -109,6 +110,7 @@ _ _ _
 * Weaver, A., Hopfauf, L. (5/5/2015). "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection" [Conference Presentation]. Pacific Northwest Music Librarians Association. Eugene, OR.
 
 # Selected Guest Lectures and Instruction
+* "A/V 102." Northwest Archivists Annual Meeting 2024. 05/03/2023
 * "A/V 101." Washington State Historical Society Sponsored workshop. 05/16/2023
 * "A/V 101." Northwest Archivists Annual Meeting 2023. 05/03/2023
 * "Oral Histories - Planning, conducting, and preserving and using oral histories." We are History Keepers. 10/22/2022
@@ -160,11 +162,12 @@ _ _ _
 * 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
 # University Service
-* Library Research Award for Undergraduates Committee 3/2023 - Present
+* Digital Strategies Task Force, 5/2024 - Present
+* Library Research Award for Undergraduates Committee 3/2023, - Present
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
-* Student Employee Appreciation and Scholarship Committee 8/2022 - Present
-* 2023 LPC Review Committee, University of Washington Libraries
+* Student Employee Appreciation and Scholarship Committee, 8/2022 - 6/2024
+* 2023 LPC Review Committee, University of Washington, Libraries
 * 2023 Distinguished Librarian Award Selection Committee, University of Washington Libraries
 * 2022 LPC Review Committee, University of Washington Libraries
 * 2022 Distinguished Librarian Award Selection Committee, University of Washington Libraries
