@@ -110,7 +110,7 @@ _ _ _
 * Weaver, A., Hopfauf, L. (5/5/2015). "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection" [Conference Presentation]. Pacific Northwest Music Librarians Association. Eugene, OR.
 
 # Selected Guest Lectures and Instruction
-* "A/V 102." Northwest Archivists Annual Meeting 2024. 05/03/2023
+* "A/V 102." Northwest Archivists Annual Meeting 2024. 05/08/2024
 * "A/V 101." Washington State Historical Society Sponsored workshop. 05/16/2023
 * "A/V 101." Northwest Archivists Annual Meeting 2023. 05/03/2023
 * "Oral Histories - Planning, conducting, and preserving and using oral histories." We are History Keepers. 10/22/2022
