@@ -163,8 +163,13 @@ _ _ _
       
 * 'Archivist at Large' for Moving Image Preservation of Puget Sound, 06/2017-Present.
 
+# Consortial Service
+* BIG 10 Academic Alliance Digital Preservation Peer Group 9/2024 - Present
+* BIG 10 Academic Alliance Digitization Managers Community of Practice 9/2024 - Present
+
 # University Service
-* Digital Strategies Task Force, 5/2024 - Present
+* BTAA Steering Group, 12/2024 - Present
+* Digital Strategies Task Force, 5/2024 - 2/2025
 * Library Research Award for Undergraduates Committee 3/2023, - Present
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
