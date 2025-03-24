@@ -77,7 +77,8 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* Weaver, A (5/9/2024). "Native Northwest Online: Quality Control Metrics and Methods for Linguistics Digitization" [Poster Presentation]. NW Archivists Annual Meeting 2024. Spokane, WA.
+* Blewer, A., Cummings, S., Hockstein, D., Hopfauf, L., Martin, N.,  Toth, B., Weaver, A. (12/5/2024). "Degralescence 10 Years Later: Community Solutioons to a Mounting Predicament" [Conference Panel]. [AMIA Annual Conference](https://amiaconference.net/wp-content/uploads/2024/12/2024-Conference-Program-1.pdf). Milwaukee, WI.
+* Weaver, A. (5/9/2024). "Native Northwest Online: Quality Control Metrics and Methods for Linguistics Digitization" [Poster Presentation]. NW Archivists Annual Meeting 2024. Spokane, WA.
 * Weaver, A. (12/8/2022). "Enter the Robot! A Case Study in Optical Media Migration" [Poster presentation]. [AMIA Annual Conference](https://amiaconference.net/amia-2022-program/). Pittsburgh, PA.
 * Weaver, A. (10/28/2022). "CUE It Up! An Effective Solution for Mass CD-DA Migration" [Lightning talk]. [No Time To Wait 6](https://mediaarea.net/NoTimeToWait6). The Hague, Netherlands.
 * Hopfauf, L., Rice, D., Weaver, A. (9/26/2022 - 9/29/2022). "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [Conference presentation]. [IASA Annual Meeting](https://2022.iasa-web.org/programme). Mexico City/Online.
@@ -110,11 +111,12 @@ _ _ _
 * Weaver, A., Hopfauf, L. (5/5/2015). "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection" [Conference Presentation]. Pacific Northwest Music Librarians Association. Eugene, OR.
 
 # Selected Guest Lectures and Instruction
+* "Introduction to FFmpeg." AMIA Online Webinar series. 02/18/2025
 * "A/V 102." Northwest Archivists Annual Meeting 2024. 05/08/2024
 * "A/V 101." Washington State Historical Society Sponsored workshop. 05/16/2023
 * "A/V 101." Northwest Archivists Annual Meeting 2023. 05/03/2023
 * "Oral Histories - Planning, conducting, and preserving and using oral histories." We are History Keepers. 10/22/2022
-* "Introduction to FFmpeg." AMIA Lecture Series: Open Source. 07/20/2022
+* "Introduction to FFmpeg." AMIA Online Webinar series. 07/20/2022
 * "Managing and Preserving Digital Files: Audio/Visual Outsourcing and Digital Preservation." We are History Keepers. 11/06/2021
 * "Caring for and Digitizing Legacy Audio-Visual Materials." We are History Keepers. 03/27/2021
 * "How to Care for and Preserve Audio/Visual Collections." We Are History Keepers. 07/25/2020
