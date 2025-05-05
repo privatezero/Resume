@@ -1,5 +1,5 @@
 <p align="center"><strong>Andrew Weaver, MLIS</strong></p>
-<p align="center">andrewweaver.info | weaveraj@uw.edu</p>
+<p align="center">weaveraj@uw.edu</p>
 
 _ _ _
 
