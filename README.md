@@ -167,13 +167,14 @@ _ _ _
 * BIG 10 Academic Alliance Digital Preservation Peer Group 9/2024 - Present
 * BIG 10 Academic Alliance Digitization Managers Community of Practice 9/2024 - Present
 
-# University Service
+# University Service\
+* Digital Repositories Infrastructure Committee, 5/2025 - Present
 * BTAA Steering Group, 12/2024 - Present
 * Digital Strategies Task Force, 5/2024 - 2/2025
 * Library Research Award for Undergraduates Committee 3/2023, - Present
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
-* Student Employee Appreciation and Scholarship Committee, 8/2022 - 6/2024
+* Student Employee Appreciation and Scholarship Committee, 8/2022 - 4/2025
 * 2023 LPC Review Committee, University of Washington, Libraries
 * 2023 Distinguished Librarian Award Selection Committee, University of Washington Libraries
 * 2022 LPC Review Committee, University of Washington Libraries
