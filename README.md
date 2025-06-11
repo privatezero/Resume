@@ -77,7 +77,7 @@ _ _ _
 _ _ _
 
 # Selected Presentations
-* Blewer, A., Cummings, S., Hockstein, D., Hopfauf, L., Martin, N.,  Toth, B., Weaver, A. (12/5/2024). "Degralescence 10 Years Later: Community Solutioons to a Mounting Predicament" [Conference Panel]. [AMIA Annual Conference](https://web.archive.org/web/20250209121905/https://amiaconference.net/amia-2024-program/). Milwaukee, WI.
+* Blewer, A., Cummings, S., Hockstein, D., Hopfauf, L., Martin, N.,  Toth, B., Weaver, A. (12/5/2024). "Degralescence 10 Years Later: Community Solutions to a Mounting Predicament" [Conference Panel]. [AMIA Annual Conference](https://web.archive.org/web/20250209121905/https://amiaconference.net/amia-2024-program/). Milwaukee, WI.
 * Weaver, A. (5/9/2024). "Native Northwest Online: Quality Control Metrics and Methods for Linguistics Digitization" [Poster Presentation]. NW Archivists Annual Meeting 2024. Spokane, WA.
 * Weaver, A. (12/8/2022). "Enter the Robot! A Case Study in Optical Media Migration" [Poster presentation]. [AMIA Annual Conference](https://web.archive.org/web/20230405011500/https://amiaconference.net/amia-2022-program/). Pittsburgh, PA.
 * Weaver, A. (10/28/2022). "CUE It Up! An Effective Solution for Mass CD-DA Migration" [Lightning talk]. [No Time To Wait 6](https://mediaarea.net/NoTimeToWait6). The Hague, Netherlands.
