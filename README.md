@@ -167,7 +167,7 @@ _ _ _
 * BIG 10 Academic Alliance Digital Preservation Peer Group 9/2024 - Present
 * BIG 10 Academic Alliance Digitization Managers Community of Practice 9/2024 - Present
 
-# University Service\
+# University Service
 * Digital Repositories Infrastructure Committee, 5/2025 - Present
 * BTAA Steering Group, 12/2024 - Present
 * Digital Strategies Task Force, 5/2024 - 2/2025
