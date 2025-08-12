@@ -172,6 +172,7 @@ _ _ _
 * Digital Repositories Infrastructure Committee, 5/2025 - Present
 * BTAA Steering Group, 12/2024 - Present
 * Digital Strategies Task Force, 5/2024 - 2/2025
+* Libraries representative to National Digital Stewardship Alliance (NDSA), 9/2023 - 7/2025
 * Library Research Award for Undergraduates Committee 3/2023, - Present
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
