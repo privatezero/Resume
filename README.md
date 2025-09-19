@@ -72,8 +72,12 @@ _ _ _
 * Vallier J., Weaver A. (2019) Media Services. In R.C. Roemer & V. Kern (Eds.), _The Culture of Digital Scholarship in Academic Libraries_. (pp 163-179). ALA Editions. https://digital.lib.washington.edu/researchworks/handle/1773/44482
 * Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017) Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal, v47_, (pp 41-47). https://journal.iasa-web.org/pubs/article/download/54/29
 * Widzinski L., Mandel, D., Weaver, A., Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35. https://docs.lib.purdue.edu/atg/vol28/iss5/14/
-* Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. https://gamer.ischool.uw.edu/files/2019/09/VGMS_CV_Genre_v.1.1_20150622.pdf
+* Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014) UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. https://gamer.ischool.uw.edu/files/2019/09/VGMS_CV_Genre_v.1.1_20150622.pdf
 
+_ _ _
+
+# Standards Development
+van Beurden, M., Weaver, A. (2024) _"Free Lossless Audio Codec (FLAC)"_, (IETF RFC 9639), [https://www.rfc-editor.org/info/rfc9639](https://www.rfc-editor.org/info/rfc9639)
 _ _ _
 
 # Selected Presentations
