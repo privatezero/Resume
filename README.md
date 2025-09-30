@@ -67,17 +67,17 @@ _ _ _
 
 # Publications
 
-* Weaver A., Blewer A. (2023) The Forgotten Disc: Synthesis and Recommendations for Viable VCD Preservation, _Code4Lib Journal, v57_, https://journal.code4lib.org/articles/17406
-* Weaver A., Blewer A. (2019) Sustainability Through Community - ffmprovisr and the Case for Collaborative Knowledge Transfer. In  M. Ras, B Sierman and Angela Puggioni (Eds.), _iPRES 2019, the 16th International Conference on Digital Preservation_ (pp. 245-249). https://ipres2019.org/static/proceedings/iPRES2019.pdf
-* Vallier J., Weaver A. (2019) Media Services. In R.C. Roemer & V. Kern (Eds.), _The Culture of Digital Scholarship in Academic Libraries_. (pp 163-179). ALA Editions. https://digital.lib.washington.edu/researchworks/handle/1773/44482
-* Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017) Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal, v47_, (pp 41-47). https://journal.iasa-web.org/pubs/article/download/54/29
-* Widzinski L., Mandel, D., Weaver, A., Horbal, A. (2016) Media in the Classroom. _Against the Grain,v28_(5), pp 32-35. https://docs.lib.purdue.edu/atg/vol28/iss5/14/
-* Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014) UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. https://gamer.ischool.uw.edu/files/2019/09/VGMS_CV_Genre_v.1.1_20150622.pdf
+* Weaver A., Blewer A. (2023). The Forgotten Disc: Synthesis and Recommendations for Viable VCD Preservation, _Code4Lib Journal, v57_, https://journal.code4lib.org/articles/17406
+* Weaver A., Blewer A. (2019). Sustainability Through Community - ffmprovisr and the Case for Collaborative Knowledge Transfer. In  M. Ras, B Sierman and Angela Puggioni (Eds.), _iPRES 2019, the 16th International Conference on Digital Preservation_ (pp. 245-249). https://ipres2019.org/static/proceedings/iPRES2019.pdf
+* Vallier J., Weaver A. (2019). Media Services. In R.C. Roemer & V. Kern (Eds.), _The Culture of Digital Scholarship in Academic Libraries_. (pp 163-179). ALA Editions. https://digital.lib.washington.edu/researchworks/handle/1773/44482
+* Weaver A., Colloton E., McManus K., Chau S., Ramirez-Lopez L., Lott A., Graves T. (2017). Building a Digital Preservation Community in Public Broadcasting: A Case Study of the American Archive of Public Broadcasting’s National Digital Stewardship Residencies. _IASA Journal, v47_, (pp 41-47). https://journal.iasa-web.org/pubs/article/download/54/29
+* Widzinski L., Mandel, D., Weaver, A., Horbal, A. (2016). Media in the Classroom. _Against the Grain,v28_(5), pp 32-35. https://docs.lib.purdue.edu/atg/vol28/iss5/14/
+* Lee, J. H., Perti, A., Weaver, A., & Windleharth, T. (2014). UW/SIMM Video Game Metadata Schema: Controlled Vocabulary for Genre. https://gamer.ischool.uw.edu/files/2019/09/VGMS_CV_Genre_v.1.1_20150622.pdf
 
 _ _ _
 
 # Standards Development
-van Beurden, M., Weaver, A. (2024) _"Free Lossless Audio Codec (FLAC)"_, (IETF RFC 9639), [https://www.rfc-editor.org/info/rfc9639](https://www.rfc-editor.org/info/rfc9639)
+van Beurden, M., Weaver, A. (2024). _"Free Lossless Audio Codec (FLAC)"_, (IETF RFC 9639), [https://www.rfc-editor.org/info/rfc9639](https://www.rfc-editor.org/info/rfc9639)
 _ _ _
 
 # Selected Presentations
@@ -89,7 +89,7 @@ _ _ _
 * Fuqua, F., Battistella, M. F., Weaver A., Palin, H. Petersen, C., Moore, M., Lucas, C. (05/04/2022)."Visioning a Northwest Digital Video and Moving Image Repository" [Conference panel]. [NW Archivists Annual Meeting 2022](https://northwestarchivistsinc.wildapricot.org/resources/Documents/Conferences/NWA%202022%20Conference%20Program.pdf). Remote Event. 
 * Hopfauf, L., Rice, D., Weaver, A. (11/19/2021). "DVRescue: Project Conclusions & Future Work" [Conference Presentation]. [AMIA Fall 2021 Conference](https://amiaconference.net/conference-program/). Remote Event.
 * Weaver, A., Vallier, J. (05/13/2021)."Remote Control: Lessons learned and reflections on Audiovisual collections in COVID" [Conference Presentation]. [NW Archivists Annual Meeting 2021](https://web.archive.org/web/20220419183936/https://northwestarchivistsinc.wildapricot.org/resources/Documents/UPDATED-nwa-2021_scheduling_draft%20-%20Public%20Schedule-draft.pdf). Remote Event.
-* Hopfauf, L., Rice, D., Weaver, A. (05/12/2021) "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [Conference Presentation]. [NW Archivists Annual Meeting 2021](https://web.archive.org/web/20220419183936/https://northwestarchivistsinc.wildapricot.org/resources/Documents/UPDATED-nwa-2021_scheduling_draft%20-%20Public%20Schedule-draft.pdf). Remote Event.
+* Hopfauf, L., Rice, D., Weaver, A. (05/12/2021). "DV Rescue! Lessons Learned and Outcomes from Battling DV Obsolescence" [Conference Presentation]. [NW Archivists Annual Meeting 2021](https://web.archive.org/web/20220419183936/https://northwestarchivistsinc.wildapricot.org/resources/Documents/UPDATED-nwa-2021_scheduling_draft%20-%20Public%20Schedule-draft.pdf). Remote Event.
 * Hopfauf, L., Rice, D., Weaver, A. (04/15/2021). "Debugging DV" [Conference presentation]. AMIA Spring 2021 Conference. Remote Event. 04/16/2021
 * Weaver, A., Cummings, S. (4/15/2021). "You’ll never QC alone: applications of automated quality control aids" [Poster presentation.] AMIA Spring 2021 Conference. Remote Event.
 * Hopfauf, L., Rice, D., Weaver, A. (11/19/2020)."Return of the DVRescuer" [Conference Presentation]. [AMIA Annual Conference 2020](https://web.archive.org/web/20211113202213/http://www.amiaconference.net/preliminary-program-6/). Remote Event.
@@ -109,7 +109,7 @@ _ _ _
 * Chau, S., Ramirez-Lopez, L., Colloton, E., Graves, T.,  Weaver, A., Lott, A. (11/12/2016). "Planning for Preservation in Public Media: An AAPB NDSR Update" [Conference panel]. [AMIA Annual Conference 2016](https://web.archive.org/web/20161214222631/http://www.amiaconference.net/preliminary-program-2/). Pittsburgh, PA.
 * Weaver, A., Hopfauf L. (09/27/2016)."Expanding Access Through Music: The Adrian Cowell Films and Research Collection" [Poster presentation]. [IASA Annual Conference 2016](https://web.archive.org/web/20220707163752/https://2016.iasa-web.org/programme.html). Washington, DC. 
 * Fraimow, R., Chau, S., Ramirez-Lopez, L., Weaver, A., Lott, A., Colloton, E., Graves, T., McManus, K. (09/26/2016). "Building a Digital Preservation Community in Public Broadcasting" [Conference panel]. IASA Annual Conference 2016. Washington, DC.
-* Lacinak, C., Rossi-Snook, E., Jenkins, J., Vallier, J., Weaver, A. (11/21/2015)."Keeping it Real: Providing Access to Physical Collections" [Conference panel]. [AMIA Annual Conference 2015](https://web.archive.org/web/20151217150048/http://www.amiaconference.net/conference-sessions-workshops-saturday/). Portland, OR.
+* Lacinak, C., Rossi-Snook, E., Jenkins, J., Vallier, J., Weaver, A. (11/21/2015). "Keeping it Real: Providing Access to Physical Collections" [Conference panel]. [AMIA Annual Conference 2015](https://web.archive.org/web/20151217150048/http://www.amiaconference.net/conference-sessions-workshops-saturday/). Portland, OR.
 * Weaver, A., Hopfauf, L. (11/19/2015). "Expanding Access Through Music: The Adrian Cowell Films and Research Collection." [Poster presentation]. [AMIA Annual Conference 2015](https://web.archive.org/web/20151218123948/http://www.amiaconference.net/conference-sessions-workshops-thursday). Portland, OR.
 * Weaver, A., Hopfauf, L. (5/30/2015)."Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection" [Conference Presentation]. Fifty Years of Opium and Conflict in the Shan State of Burma: A Visual Retrospective. Seattle, WA. 5/30/2015.
 * Weaver, A., Hopfauf, L. (5/5/2015). "Odds and Sods: The Hidden Music of the Adrian Cowell Films and Research Collection" [Conference Presentation]. Pacific Northwest Music Librarians Association. Eugene, OR.
