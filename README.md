@@ -48,11 +48,11 @@ _ _ _
 
 # Other Work Experience
 
-ART JAPAN CO. LTD., __Construction Management__
+ART JAPAN CO. LTD., __Contracting and Construction Management__
 
 Kagoshima, Japan -- 2011-2013
 
-SATSUMA-SENDAI BOARD OF EDUCATION, __English Teacher__
+SATSUMA-SENDAI BOARD OF EDUCATION, __English Teacher (JET Programme)__
 
 Satsuma-Sendai, Japan -- 2007-2009
 
@@ -61,7 +61,7 @@ _ _ _
 # Additional Skills
 
 * FFmpeg, DACS, PREMIS, EAD, Git, Ruby, Bash, MySQL, XML, HTML, CSS
-* High proficiency in Japanese. Spoken level: fluent. Reading/Writing: 3rd year college level
+* High proficiency in Japanese. Spoken level: Conversationally fluent. Reading/Writing: 3rd year college level
 
 _ _ _
 
