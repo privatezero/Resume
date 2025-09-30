@@ -180,7 +180,9 @@ _ _ _
 * Library Research Award for Undergraduates Committee 3/2023, - Present
 * Digital Workflows Checklist Team, University of Washington Libraries, 2020 - Present 
 * SLOTS (Staff Learning Opportunities for Technical Services) Working Group, University of Washington Libraries, 2020 - Present
+     * Co-chair 9/2023 - Present
 * Student Employee Appreciation and Scholarship Committee, 8/2022 - 4/2025
+* 2024 Distinguished Librarian Award Selection Committee, University of Washington Libraries
 * 2023 LPC Review Committee, University of Washington, Libraries
 * 2023 Distinguished Librarian Award Selection Committee, University of Washington Libraries
 * 2022 LPC Review Committee, University of Washington Libraries
