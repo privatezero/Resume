@@ -81,6 +81,7 @@ van Beurden, M., Weaver, A. (2024). _"Free Lossless Audio Codec (FLAC)"_, (IETF 
 _ _ _
 
 # Selected Presentations
+* Weaver, A., Hopfauf, L. (6/25/2026). "Beyond the Transfer: Managing A/V Digitization from Crate to Checksum" [Conferenece Presentation]. NW Archivists Annual Meeting 2026. Tacoma, WA.
 * Blewer, A., Cummings, S., Hockstein, D., Hopfauf, L., Martin, N.,  Toth, B., Weaver, A. (12/5/2024). "Degralescence 10 Years Later: Community Solutions to a Mounting Predicament" [Conference Panel]. [AMIA Annual Conference](https://web.archive.org/web/20250209121905/https://amiaconference.net/amia-2024-program/). Milwaukee, WI.
 * Weaver, A. (5/9/2024). "Native Northwest Online: Quality Control Metrics and Methods for Linguistics Digitization" [Poster Presentation]. [NW Archivists Annual Meeting 2024](https://drive.google.com/file/d/1vp8N-nqcyGD6GzMi-1ydn0StnFvz3Zj1/view). Spokane, WA.
 * Weaver, A. (12/8/2022). "Enter the Robot! A Case Study in Optical Media Migration" [Poster presentation]. [AMIA Annual Conference](https://web.archive.org/web/20230405011500/https://amiaconference.net/amia-2022-program/). Pittsburgh, PA.
